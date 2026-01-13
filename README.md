@@ -2,7 +2,7 @@
 
 بوت تيليجرام متكامل لمتابعة أوقات الصلاة مع دعم متعدد المجموعات وإرسال إشعارات الأذان الذكية.
 
-![Version](https://img.shields.io/badge/version-1.0.1-blue)
+![Version](https://img.shields.io/badge/version-1.0.2-blue)
 ![Python](https://img.shields.io/badge/python-3.8+-green)
 
 ---
