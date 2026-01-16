@@ -1,0 +1,41 @@
+# =====================================================
+# Islamic Prayer Times Telegram Bot - Requirements
+# =====================================================
+# Python 3.8+ required
+
+# Telegram Bot API
+pyTelegramBotAPI==4.14.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Scheduling
+APScheduler==3.10.4
+
+# Timezone Support
+pytz==2023.3
+
+# =====================================================
+# Optional Development Dependencies
+# =====================================================
+
+# Code Quality
+# pylint==3.0.2
+
+# Testing
+# pytest==7.4.3
+# pytest-cov==4.1.0
+
+# Documentation
+# sphinx==7.2.6
+# sphinx-rtd-theme==1.3.0
+
+# =====================================================
+# Notes
+# =====================================================
+#
+# - Remove comments when using this file
+# - Install with: pip install -r requirements.txt
+# - For production: pip install pyTelegramBotAPI requests APScheduler pytz
+#
+# =====================================================

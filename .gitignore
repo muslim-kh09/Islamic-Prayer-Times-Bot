@@ -1,0 +1,174 @@
+# =====================================================
+# Islamic Prayer Times Telegram Bot - .gitignore
+# =====================================================
+
+# =====================================================
+# Python
+# =====================================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# =====================================================
+# Environment Variables
+# =====================================================
+
+# Environment file (contains secrets)
+.env
+.env.local
+.env.*.local
+
+# =====================================================
+# Database
+# =====================================================
+
+# Database files
+*.db
+*.db-shm
+*.db-wal
+prayer_bot.db*
+
+# =====================================================
+# Logs
+# =====================================================
+
+# Log files
+*.log
+bot_debug.log*
+logs/
+*.log.*
+
+# =====================================================
+# IDEs
+# =====================================================
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# =====================================================
+# OS
+# =====================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =====================================================
+# Temporary Files
+# =====================================================
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+
+# =====================================================
+# Project Specific
+# =====================================================
+
+# Backup files
+*_backup.py
+*_backup.sql
+
+# Old versions
+old_*.py
+*_old.py
+
+# Migration scripts (only keep current)
+migrations/*.old
+
+# =====================================================
+# Secrets (NEVER COMMIT)
+# =====================================================
+
+# Secrets
+secrets.json
+secrets.yaml
+credentials.json
+credentials.yaml
+*.key
+*.pem
+
+# =====================================================
+# Misc
+# =====================================================
+
+# Node modules (if adding web interface)
+node_modules/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# =====================================================
