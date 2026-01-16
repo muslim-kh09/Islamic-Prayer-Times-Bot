@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## [2.0.0] - 2024-01-XX
+## [2.0.0] - 2026-01-16
 
 ### 🎉 Major Release - Complete Architectural Refactor
 
@@ -290,7 +290,7 @@ This release represents a major transformation of the project architecture, conv
 
 ---
 
-## [1.0.2] - 2023-XX-XX
+## [1.0.2] - 2026-01-14
 
 ### ✨ Added
 - Enhanced logging system
@@ -304,7 +304,7 @@ This release represents a major transformation of the project architecture, conv
 
 ---
 
-## [1.0.1] - 2023-XX-XX
+## [1.0.1] - 2026-01-12
 
 ### ✨ Added
 - Added basic prayer times
@@ -347,8 +347,7 @@ This release represents a major transformation of the project architecture, conv
 ## 📞 Support
 
 If you encounter any issues:
-- 📧 Email: [your-email@example.com]
-- 🐛 GitHub Issues: [Report a bug](https://github.com/yourusername/islamic-prayer-bot/issues)
+- 🐛 GitHub Issues: [Report a bug](https://github.com/muslim-kh09/Islamic-Prayer-Times-Bot/issues)
 
 ---
 
