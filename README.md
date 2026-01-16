@@ -13,7 +13,16 @@
 [Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
 </div>
+---
+## 🌐 Language Switcher | تغيير اللغة
 
+<div align="center">
+
+| 🇸🇦 العربية | 🇬🇧 English |
+|:---:|:---:|
+| [![Arabic](https://img.shields.io/badge/lang-عربي-success?style=for-the-badge)](README.md) | [![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge)](README_EN.md) |
+
+**📖 Docs in Arabic / 📖 Docs in English**
 ---
 
 ## 📞 روابط سريعة (Quick Links)
