@@ -8,7 +8,7 @@ Islamic Prayer Times Telegram Bot - Version Management
 
 **v2.0.0 (Production Ready)**
 
-Release Date: 2024-01-XX
+Release Date: 2026-01-16
 
 ---
 
@@ -16,10 +16,9 @@ Release Date: 2024-01-XX
 
 | Version | Release Date | Status | Type |
 |---------|--------------|--------|------|
-| v2.0.0 | 2024-01-XX | ✅ Production | Major Refactor |
-| v1.0.2 | 2023-XX-XX | ✅ Deprecated | Patch |
-| v1.0.1 | 2023-XX-XX | ✅ Deprecated | Minor |
-| v1.0.0 | 2023-XX-XX | ✅ Deprecated | Initial |
+| v2.0.0 | 2026-01-16 | ✅ Production | Major Refactor |
+| v1.0.2 | 2026-01-14 | ✅ Deprecated | Patch |
+| v1.0.1 | 2026-01-11 | ✅ Deprecated | Minor |
 
 ---
 
