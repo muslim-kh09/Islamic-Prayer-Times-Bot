@@ -13,8 +13,8 @@
 [Features](#-features) • [Architecture](#-architecture) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
 </div>
----
-**🌐 Language Switcher | تغيير اللغة**
+
+##🌐 Language Switcher | تغيير اللغة
 
 <div align="center">
 
