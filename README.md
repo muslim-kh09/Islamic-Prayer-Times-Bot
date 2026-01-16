@@ -14,7 +14,7 @@
 
 </div>
 ---
-## 🌐 Language Switcher | تغيير اللغة
+**🌐 Language Switcher | تغيير اللغة**
 
 <div align="center">
 
