@@ -266,9 +266,8 @@ pylint *.py
 
 ## 📞 Contact
 
-- 📧 Email: [your-email@example.com]
-- 💬 Telegram: [@your_telegram]
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/islamic-prayer-bot/issues)
+- 💬 Telegram: [Khaled](https://t.me/A245F)
+- 🐛 Issues: [GitHub Issues](https://github.com/muslim-kh09/Islamic-Prayer-Times-Bot/issues)
 
 ---
 
