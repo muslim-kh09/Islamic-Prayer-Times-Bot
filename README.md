@@ -1,6 +1,7 @@
 # 🕌 Islamic Prayer Times Telegram Bot
 
 <div align="center">
+<img src="preview.jpg" width="100%" alt="Khalid Profile">
 
 ![Version](https://img.shields.io/badge/version-2.0.0-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
