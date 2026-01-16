@@ -241,6 +241,6 @@ Islamic Prayer Times Telegram Bot - v2.0.0+
 
 <div align="center">
 
-**Target: v2.1.0 by Q2 2024 | v3.0.0 by Q4 2024**
+**Target: v2.1.0 by Q2 2026 | v3.0.0 by Q4 2026**
 
 </div>
